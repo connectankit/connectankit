@@ -14,14 +14,7 @@ I'm a passionate React developer with 2 years of hands-on experience in building
 - **SQL**: Familiarity with relational databases and SQL for data management.
 - **Material UI / Semantic UI**: Skilled in utilizing UI component libraries like Material UI and Semantic UI to create visually appealing interfaces.
 
-## Projects
-Here are some of my notable projects:
-1. **[Project Name 1](link-to-project-1)**: Description of the project.
-2. **[Project Name 2](link-to-project-2)**: Description of the project.
-3. **[Project Name 3](link-to-project-3)**: Description of the project.
 
 ## Contact Me
-Feel free to reach out to me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/).
+Feel free to reach out to me via email at [ankitkumarasus@gmail.com](mailto:ankitkumarasus@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-kumar-02ab0b1b6/).
 
-## License
-This project is licensed under the [MIT License](LICENSE).
